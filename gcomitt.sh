@@ -2,4 +2,4 @@ git add .
 echo "Message"
 read message;
 git commit -m $message
-git push -u orgin master
+git push
