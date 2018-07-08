@@ -3,7 +3,7 @@
  * @version 1.0
  * Subject:Object Oriented Programming
  * Subject Code:CS8382
- * Concept:Demo of Basic Integer Data Types of Java 
+ * Concept:Demo of Basic Decimal Data Types of Java 
  ===================================================*/
 public class Main {
 
